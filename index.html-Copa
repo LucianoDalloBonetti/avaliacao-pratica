@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+    <head>
+        <title>Copa do Brasil</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <header>
+          <h1 class="titulo-central"><strong>História do Brasil na Copa</strong></h1>
+        </header>
+            
+        <img id="bandeira-do-brasil" src="bandeira-=do-brasil.png">
+
+        <p>O Brasil é a única seleção que participou de todas as edições da Copa do Mundo de Futebol, E com isso conseguiu conquistar cinco títulos mundiais <em>(1958, 1962, 1970, 1994 e 2002)</em>.</p>
+
+        <p>O Brasil ganhou seu primeiro título em 1958 na Suécia com Didi eleito o melhor jogador da competição e a presença de Garrincha e a estreia de Pelé em Copas.</p>
+
+        <p>Já em 1962, o Brasil conquistou o bicampeonato no Chile com brilhantes atuações de Garrincha. O tricampeonato foi vencido no México.</p>
+
+        <p>Pelé marcou seu primeiro gol em Mundiais contra o País de Gales nas Quartas de Final da Copa do Mundo de 1958, na Suécia. <em>Este gol do menino de apenas 17 anos foi o primeiro do futuro Atleta do Século do Comitê Olímpico Internacional e Jogador do Século</em>.</p>
+
+        <p>Depois de um intervalo de 24 anos o Brasil voltou a ser campeão em 1994. A seleção da "Era Dunga" trazia o caneco de volta ao Brasil com destaque para Romário, Bebeto e Taffarel. Em 2002, o Brasil foi pentacampeão na Copa da Coreia do Sul e Japão com destaque para Rivaldo, Ronaldinho Gaúcho e Ronaldo Fenômeno.</p>
+
+        <img id="historia-das-bolas-da-copa" src="historia-das-bolas-da-copa.png">
+
+    </body>
+</html>
